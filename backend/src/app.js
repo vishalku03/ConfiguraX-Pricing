@@ -29,8 +29,7 @@ const allowedOrigins = [
   "http://localhost:5173",
 ].filter(Boolean);
 
-// Debug log — Render ke "Logs" tab me dikhega, confirm karne ke liye
-// ki FRONTEND_URL sahi se set hua hai ya undefined aa raha hai.
+
 console.log("CORS allowed origins:", allowedOrigins);
 
 app.use(
