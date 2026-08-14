@@ -8,8 +8,9 @@ The project is divided into two applications:
 - **Backend** — Node.js + Express + MongoDB
 
   Because Prefill System Login so :
-  For Demo : Email -    admin@laptopprice.com
-             Password - Admin@123
+ **Demo**
+   Email -    admin@laptopprice.com
+   Password - Admin@123
 
 ---
 
