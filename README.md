@@ -7,6 +7,10 @@ The project is divided into two applications:
 - **Frontend** — React + Vite
 - **Backend** — Node.js + Express + MongoDB
 
+  Because Prefill System Login so :
+  For Demo : Email -    admin@laptopprice.com
+             Password - Admin@123
+
 ---
 
 ## Project Overview:
