@@ -9,7 +9,7 @@ The project is divided into two applications:
 
 ---
 
-## Project Overview
+## Project Overview:
 
 The Laptop Pricing System provides an administrative interface for managing laptop component pricing and creating customized laptop quotations.
 
